@@ -1,0 +1,5 @@
+.env
+**/__pycache__
+
+recipe-app-api.code-workspace
+README.md
