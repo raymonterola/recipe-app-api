@@ -1,4 +1,5 @@
 .env
+venv
 **/__pycache__
 
 recipe-app-api.code-workspace
